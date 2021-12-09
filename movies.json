@@ -1,0 +1,1855 @@
+[{
+  "_id": {
+    "$oid": "61a23de4b747f611947ba80d"
+  },
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "tags": [
+    "love story",
+    "naga chaitanya",
+    "sai pallavi"
+  ],
+  "writers": [
+    {
+      "$oid": "6176a3346fd9e9046831938a"
+    }
+  ],
+  "reviews": [
+    {
+      "$oid": "61ae36295024d7073c9600cb"
+    },
+    {
+      "$oid": "61ae3c95f0cae90650d298d8"
+    },
+    {
+      "$oid": "61ae3e7fb462ca2560096933"
+    },
+    {
+      "$oid": "61ae4a1536d2fa214493dc81"
+    },
+    {
+      "$oid": "61aeecb98118ed2820292fb1"
+    },
+    {
+      "$oid": "61af32ac7aa0ea11c863dc6c"
+    }
+  ],
+  "avgStars": 0,
+  "title": "Love Story 2021",
+  "storyLine": "Love Story is a 2021 Indian Telugu-language film written and directed by Sekhar Kammula. Produced by Amigos Creations and Sree Venkateswara Cinemas, the film stars Naga Chaitanya and Sai Pallavi while Rajeev Kanakala, Devayani, Easwari Rao and Uttej play supporting roles.",
+  "releseDate": {
+    "$date": "2021-09-21T00:00:00Z"
+  },
+  "status": "public",
+  "type": "Film",
+  "director": {
+    "$oid": "6176a3346fd9e9046831938a"
+  },
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61ab6f1a76a9732a20a65bb9"
+      },
+      "actor": {
+        "$oid": "6176a11e6fd9e9046831937e"
+      },
+      "roleAs": "Revant",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61ab6f1a76a9732a20a65bba"
+      },
+      "actor": {
+        "$oid": "6176a0fb6fd9e9046831937b"
+      },
+      "roleAs": "Mounica",
+      "leadActor": true
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638022355/tri3xnh5s5bof0ypbuif.mp4",
+    "public_id": "tri3xnh5s5bof0ypbuif"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638022628/alnjqqkhc5lyx7d1abno.jpg",
+    "public_id": "alnjqqkhc5lyx7d1abno"
+  },
+  "createdAt": {
+    "$date": "2021-11-27T14:17:08.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T10:08:44.029Z"
+  },
+  "__v": 8,
+  "language": "Telugu"
+},{
+  "_id": {
+    "$oid": "61a24c12eda4340b782de28f"
+  },
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "tags": [
+    "suriya"
+  ],
+  "writers": [
+    {
+      "$oid": "61818478799faa2adc2e665a"
+    }
+  ],
+  "reviews": [
+    {
+      "$oid": "61aeecde8118ed2820292fce"
+    },
+    {
+      "$oid": "61aeee2a8118ed2820292fe8"
+    },
+    {
+      "$oid": "61af33027aa0ea11c863dc92"
+    },
+    {
+      "$oid": "61af36d17aa0ea11c863de55"
+    }
+  ],
+  "avgStars": 0,
+  "title": "Jai Bhim",
+  "storyLine": "A pregnant woman from a primitive tribal community, searches desperately for her husband, who is missing from police custody. A High Court advocate rises in support to find her husband and seek justice for them.",
+  "releseDate": {
+    "$date": "2021-09-01T00:00:00Z"
+  },
+  "status": "public",
+  "type": "Film",
+  "director": {
+    "$oid": "61818478799faa2adc2e665a"
+  },
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61acd6463cf2ef13fc4e5b2b"
+      },
+      "actor": {
+        "$oid": "61818328799faa2adc2e6654"
+      },
+      "roleAs": "Chandru",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61acd6463cf2ef13fc4e5b2c"
+      },
+      "actor": {
+        "$oid": "61a2495eeda4340b782de21c"
+      },
+      "roleAs": "Singnhi",
+      "leadActor": true
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638025842/urqwtfs6pgouc5nqbzse.mp4",
+    "public_id": "urqwtfs6pgouc5nqbzse"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638026257/zwcw43hvw1x50jgcmn9y.jpg",
+    "public_id": "zwcw43hvw1x50jgcmn9y"
+  },
+  "createdAt": {
+    "$date": "2021-11-27T15:17:38.754Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T10:26:25.036Z"
+  },
+  "__v": 5,
+  "language": "Tamil"
+},{
+  "_id": {
+    "$oid": "61acd61f3cf2ef13fc4e5b19"
+  },
+  "genres": [
+    "Action",
+    "Crime"
+  ],
+  "tags": [
+    "akshya kumar",
+    "rohit setthy"
+  ],
+  "writers": [
+    {
+      "$oid": "61acd5b53cf2ef13fc4e5b12"
+    }
+  ],
+  "reviews": [
+    {
+      "$oid": "61af33407aa0ea11c863dca5"
+    },
+    {
+      "$oid": "61af36747aa0ea11c863de2f"
+    }
+  ],
+  "avgStars": 0,
+  "title": "Sooryavanshi",
+  "storyLine": "Sooryavanshi traces the acts and serious antics of DCP Veer Sooryavanshi, the chief of the Anti-Terrorism Squad in India.",
+  "releseDate": {
+    "$date": "2021-12-15T00:00:00Z"
+  },
+  "status": "public",
+  "type": "Film",
+  "director": {
+    "$oid": "61acd5b53cf2ef13fc4e5b12"
+  },
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61acd61f3cf2ef13fc4e5b1a"
+      },
+      "actor": {
+        "$oid": "6172c8ac2afe581be411c36e"
+      },
+      "roleAs": "Sooryavanshi",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61acd61f3cf2ef13fc4e5b1b"
+      },
+      "actor": {
+        "$oid": "61acd5003cf2ef13fc4e5b01"
+      },
+      "roleAs": "Ria Sooryavanshi",
+      "leadActor": true
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638716432/f0d8ignexq8avc01vhwb.mp4",
+    "public_id": "f0d8ignexq8avc01vhwb"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638716962/uofhffnoryilw13aya6s.jpg",
+    "public_id": "uofhffnoryilw13aya6s"
+  },
+  "createdAt": {
+    "$date": "2021-12-05T15:09:19.426Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T10:24:52.646Z"
+  },
+  "__v": 2,
+  "language": "Hindi"
+},{
+  "_id": {
+    "$oid": "61adaa650b48ef1734936759"
+  },
+  "genres": [
+    "Drama",
+    "Sport",
+    "Thriller"
+  ],
+  "tags": [
+    "ranveer",
+    "sport",
+    "worldcup"
+  ],
+  "writers": [
+    {
+      "$oid": "61ada7c2a343e60af85e17ea"
+    }
+  ],
+  "reviews": [],
+  "avgStars": 0,
+  "title": "83",
+  "storyLine": "On June 25, 1983, the Lord's Cricket Ground witnessed 14 men beat the twice over World Champions West Indies, putting India back onto the cricket world stage.",
+  "releseDate": {
+    "$date": "2021-12-24T00:00:00Z"
+  },
+  "status": "public",
+  "type": "Film",
+  "director": {
+    "$oid": "61ada7c2a343e60af85e17ea"
+  },
+  "language": "Hindi",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61adaa650b48ef173493675a"
+      },
+      "actor": {
+        "$oid": "61ada4d1a343e60af85e17c8"
+      },
+      "roleAs": "Kapil Dev",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61adaa650b48ef173493675b"
+      },
+      "actor": {
+        "$oid": "61ada561a343e60af85e17cb"
+      },
+      "roleAs": "Roma Devi",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61adaa650b48ef173493675c"
+      },
+      "actor": {
+        "$oid": "61ada60aa343e60af85e17d1"
+      },
+      "roleAs": "PR Man Singh",
+      "leadActor": false
+    },
+    {
+      "_id": {
+        "$oid": "61adaa650b48ef173493675d"
+      },
+      "actor": {
+        "$oid": "61ada5bba343e60af85e17ce"
+      },
+      "roleAs": "Krishnamachari Srikkanth",
+      "leadActor": false
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638771034/nx5v3e1bm0a4amc2spsq.mp4",
+    "public_id": "nx5v3e1bm0a4amc2spsq"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638771301/ei3zro51kliyvuym9u1u.jpg",
+    "public_id": "ei3zro51kliyvuym9u1u"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T06:15:01.651Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T06:15:01.651Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61adafc06e354a16804008e8"
+  },
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "tags": [
+    "salman khan"
+  ],
+  "writers": [
+    {
+      "$oid": "61adaf0c6e354a16804008e1"
+    }
+  ],
+  "reviews": [
+    {
+      "$oid": "61af33737aa0ea11c863dcca"
+    },
+    {
+      "$oid": "61af370e7aa0ea11c863de6c"
+    }
+  ],
+  "avgStars": 0,
+  "title": "Antim: The Final Truth",
+  "storyLine": "A man from humble origins works his way up to an influential position within organised crime. Nothing seems able to stop him until he runs into a police officer who takes his job to uphold justice very seriously.",
+  "releseDate": {
+    "$date": "2021-11-26T00:00:00Z"
+  },
+  "status": "public",
+  "type": "Film",
+  "director": {
+    "$oid": "61adaf0c6e354a16804008e1"
+  },
+  "language": "Hindi",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61adafc06e354a16804008e9"
+      },
+      "actor": {
+        "$oid": "61adae056e354a16804008bd"
+      },
+      "roleAs": "Rahul Patil",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61adafc06e354a16804008ea"
+      },
+      "actor": {
+        "$oid": "61adadb56e354a16804008b7"
+      },
+      "roleAs": "Inspector Rajveer Singh",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61adafc06e354a16804008eb"
+      },
+      "actor": {
+        "$oid": "61adaddf6e354a16804008ba"
+      },
+      "roleAs": "Mandana",
+      "leadActor": false
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638772262/tydlb0foagjvqndc2cv4.mp4",
+    "public_id": "tydlb0foagjvqndc2cv4"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638772671/l4bp1hsavrwevkkqxy2d.jpg",
+    "public_id": "l4bp1hsavrwevkkqxy2d"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T06:37:52.017Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T10:27:26.860Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61adb7fb6e354a16804009a9"
+  },
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Drama"
+  ],
+  "tags": [
+    "tv show",
+    "apple tv"
+  ],
+  "writers": [
+    {
+      "$oid": "61adb7876e354a1680400994"
+    },
+    {
+      "$oid": "61adb7686e354a1680400991"
+    }
+  ],
+  "reviews": [
+    {
+      "$oid": "61af309debea371d1c21348a"
+    }
+  ],
+  "avgStars": 0,
+  "title": "See",
+  "storyLine": "In a future where humankind has lost the ability to see and is forced to interact in new ways, a set of twins with sight is born, challenging the status quo.",
+  "releseDate": {
+    "$date": "2019-11-01T00:00:00Z"
+  },
+  "status": "public",
+  "type": "TV Series",
+  "director": {
+    "$oid": "61adb7876e354a1680400994"
+  },
+  "language": "English",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61adb7fb6e354a16804009aa"
+      },
+      "actor": {
+        "$oid": "61adb6ee6e354a1680400983"
+      },
+      "roleAs": "Baba Voss",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61adb7fb6e354a16804009ab"
+      },
+      "actor": {
+        "$oid": "61adb6916e354a168040097d"
+      },
+      "roleAs": "Queen Kane",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61adb7fb6e354a16804009ac"
+      },
+      "actor": {
+        "$oid": "61adb6c96e354a1680400980"
+      },
+      "roleAs": "Maghra Kane",
+      "leadActor": false
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638774331/a8p9qf6zjbubicpslc8r.mp4",
+    "public_id": "a8p9qf6zjbubicpslc8r"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638774779/l7xogzcmrchjlxa6co99.jpg",
+    "public_id": "l7xogzcmrchjlxa6co99"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T07:12:59.571Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T09:59:57.398Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61adef07934b3318e873a50a"
+  },
+  "genres": [
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "tags": [
+    "space"
+  ],
+  "writers": [
+    {
+      "$oid": "61adee8d934b3318e873a4fc"
+    },
+    {
+      "$oid": "61adeec1934b3318e873a503"
+    }
+  ],
+  "reviews": [
+    {
+      "$oid": "61af305eebea371d1c213469"
+    }
+  ],
+  "avgStars": 0,
+  "title": "Lost in Space",
+  "storyLine": "Due to unforeseeable circumstances, the Robinsons, a family of space colonists, crash-land on an unknown planet. Now, they must fight for survival and escape, despite the dangers surrounding them.",
+  "releseDate": {
+    "$date": "2021-12-01T00:00:00Z"
+  },
+  "status": "public",
+  "type": "TV Series",
+  "director": {
+    "$oid": "61adee8d934b3318e873a4fc"
+  },
+  "language": "English",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61adef07934b3318e873a50b"
+      },
+      "actor": {
+        "$oid": "61adedbb934b3318e873a4ed"
+      },
+      "roleAs": "Will Robinson",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61adef07934b3318e873a50c"
+      },
+      "actor": {
+        "$oid": "61adeddf934b3318e873a4f0"
+      },
+      "roleAs": "Maureen Robinson",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61adef07934b3318e873a50d"
+      },
+      "actor": {
+        "$oid": "61adedfb934b3318e873a4f3"
+      },
+      "roleAs": "Judy Robinson",
+      "leadActor": true
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638788443/uoujavdmv7g1yq8o6zgy.mp4",
+    "public_id": "uoujavdmv7g1yq8o6zgy"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638788869/zwpjxktxnturil9zywon.jpg",
+    "public_id": "zwpjxktxnturil9zywon"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T11:07:51.350Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T09:58:54.376Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61adf175934b3318e873a531"
+  },
+  "genres": [
+    "Thriller",
+    "Drama",
+    "Action"
+  ],
+  "tags": [
+    "squid game"
+  ],
+  "writers": [
+    {
+      "$oid": "61adf114934b3318e873a52a"
+    }
+  ],
+  "reviews": [
+    {
+      "$oid": "61af3036ebea371d1c21344b"
+    }
+  ],
+  "avgStars": 0,
+  "title": "Squid Game",
+  "storyLine": "Hundreds of cash-strapped contestants accept an invitation to compete in children's games for a tempting prize, but the stakes are deadly.",
+  "releseDate": {
+    "$date": "2021-09-17T00:00:00Z"
+  },
+  "status": "public",
+  "type": "TV Series",
+  "director": {
+    "$oid": "61adf114934b3318e873a52a"
+  },
+  "language": "English",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61adf175934b3318e873a532"
+      },
+      "actor": {
+        "$oid": "61adf004934b3318e873a519"
+      },
+      "roleAs": "Kang Sae‑byeok",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61adf175934b3318e873a533"
+      },
+      "actor": {
+        "$oid": "61adf038934b3318e873a51c"
+      },
+      "roleAs": "Seong Gi‑Hun",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61adf175934b3318e873a534"
+      },
+      "actor": {
+        "$oid": "61adf05b934b3318e873a51f"
+      },
+      "roleAs": "Hwang Jun‑ho",
+      "leadActor": false
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638789070/zi0mdaxtnk3hwogkhtk4.mp4",
+    "public_id": "zi0mdaxtnk3hwogkhtk4"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638789492/oxbub5zt0hel9iiavwia.jpg",
+    "public_id": "oxbub5zt0hel9iiavwia"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T11:18:13.335Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T09:58:14.866Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61adf6d4934b3318e873a55f"
+  },
+  "genres": [
+    "Family",
+    "Drama"
+  ],
+  "tags": [
+    "malayam"
+  ],
+  "writers": [
+    {
+      "$oid": "61adf482934b3318e873a543"
+    }
+  ],
+  "reviews": [
+    {
+      "$oid": "61af2faadbbe6b1b0cd66d91"
+    },
+    {
+      "$oid": "61af39887aa0ea11c863df4f"
+    }
+  ],
+  "avgStars": 0,
+  "title": "Santhwanam",
+  "storyLine": "Sridevi leads a peaceful and happy life with her husband, Satyanathan, and his siblings. However, the family faces various adversities that challenge their bonding.",
+  "releseDate": {
+    "$date": "2021-11-01T00:00:00Z"
+  },
+  "status": "public",
+  "type": "TV Series",
+  "director": {
+    "$oid": "61adf482934b3318e873a543"
+  },
+  "language": "Malayalam",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61adf6d4934b3318e873a560"
+      },
+      "actor": {
+        "$oid": "61adf4cb934b3318e873a548"
+      },
+      "roleAs": "Anjali Shivaramakrishan",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61adf6d4934b3318e873a561"
+      },
+      "actor": {
+        "$oid": "61adf66d934b3318e873a553"
+      },
+      "roleAs": "Sreedevi Balakrishnan",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61adf6d4934b3318e873a562"
+      },
+      "actor": {
+        "$oid": "61adf6b7934b3318e873a55a"
+      },
+      "roleAs": "Shivan",
+      "leadActor": true
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638790120/nbsu8ou2r6syjmk3yrwb.mp4",
+    "public_id": "nbsu8ou2r6syjmk3yrwb"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638790867/gn4vbavfgr4blozn0te2.jpg",
+    "public_id": "gn4vbavfgr4blozn0te2"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T11:41:08.280Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T10:38:00.718Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61adf923934b3318e873a590"
+  },
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "tags": [
+    "kota factory"
+  ],
+  "writers": [
+    {
+      "$oid": "61adf89b934b3318e873a589"
+    }
+  ],
+  "reviews": [
+    {
+      "$oid": "61af2f90dbbe6b1b0cd66d78"
+    },
+    {
+      "$oid": "61af39307aa0ea11c863def9"
+    },
+    {
+      "$oid": "61af43d550de180ed0acfb2e"
+    },
+    {
+      "$oid": "61af440550de180ed0acfb43"
+    }
+  ],
+  "avgStars": 0,
+  "title": "Kota Factory",
+  "storyLine": "Like many students from across India, Vaibhav comes to Kota to prepare for JEE and NEET. Along with his friends, he navigates campus life and works hard to get into IIT.",
+  "releseDate": {
+    "$date": "2019-04-16T00:00:00Z"
+  },
+  "status": "public",
+  "type": "TV Series",
+  "director": {
+    "$oid": "61adf89b934b3318e873a589"
+  },
+  "language": "Hindi",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61adf923934b3318e873a591"
+      },
+      "actor": {
+        "$oid": "61adf766934b3318e873a578"
+      },
+      "roleAs": "Jeetu Bhaiya",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61adf923934b3318e873a592"
+      },
+      "actor": {
+        "$oid": "61adf791934b3318e873a57b"
+      },
+      "roleAs": "Meenal Parekh",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61adf923934b3318e873a593"
+      },
+      "actor": {
+        "$oid": "61adf7d2934b3318e873a57e"
+      },
+      "roleAs": "Vartika Ratawal",
+      "leadActor": false
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638791145/hvchjd0oirccol4bnwzp.mp4",
+    "public_id": "hvchjd0oirccol4bnwzp"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638791457/yea5nzcorvcv3857flk4.jpg",
+    "public_id": "yea5nzcorvcv3857flk4"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T11:50:59.052Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T11:22:45.360Z"
+  },
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "61adfd11934b3318e873a5d1"
+  },
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "tags": [
+    "crime",
+    "tamil"
+  ],
+  "writers": [
+    {
+      "$oid": "61adfc86934b3318e873a5c5"
+    }
+  ],
+  "reviews": [
+    {
+      "$oid": "61af325d7aa0ea11c863dc46"
+    },
+    {
+      "$oid": "61af37ed13a16f6b85d07c75"
+    },
+    {
+      "$oid": "61af448450de180ed0acfbb7"
+    }
+  ],
+  "avgStars": 0,
+  "title": "November Story",
+  "storyLine": "A writer with Alzheimer's finds himself at a crime scene with no memory of the events. When he is taken into custody, his daughter sets out to prove his innocence.",
+  "releseDate": {
+    "$date": "2021-05-20T00:00:00Z"
+  },
+  "status": "public",
+  "type": "Web Series",
+  "director": {
+    "$oid": "61adfc86934b3318e873a5c5"
+  },
+  "language": "Tamil",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61adfd11934b3318e873a5d2"
+      },
+      "actor": {
+        "$oid": "61adfb17934b3318e873a5b3"
+      },
+      "roleAs": "Ganesan",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61adfd11934b3318e873a5d3"
+      },
+      "actor": {
+        "$oid": "61adfad7934b3318e873a5b0"
+      },
+      "roleAs": "Anuradha Ganesan",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61adfd11934b3318e873a5d4"
+      },
+      "actor": {
+        "$oid": "61adfb4b934b3318e873a5b6"
+      },
+      "roleAs": "Neeta Ramchandhrani",
+      "leadActor": true
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638791839/vgrfpcpgk4xajfgdibhk.mp4",
+    "public_id": "vgrfpcpgk4xajfgdibhk"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638792464/ia3achgcyqxphhlq8vuj.jpg",
+    "public_id": "ia3achgcyqxphhlq8vuj"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T12:07:45.802Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T11:24:52.800Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61adffdc007be029500bfbd8"
+  },
+  "genres": [
+    "Crime"
+  ],
+  "tags": [
+    "web series",
+    "crime",
+    "fiction"
+  ],
+  "writers": [
+    {
+      "$oid": "61adff36007be029500bfbcc"
+    }
+  ],
+  "reviews": [
+    {
+      "$oid": "61af322c7aa0ea11c863dc20"
+    },
+    {
+      "$oid": "61af446350de180ed0acfb9d"
+    }
+  ],
+  "avgStars": 0,
+  "title": "Hawkeye",
+  "storyLine": "Clint Barton and Kate Bishop shoot a few arrows and try to avoid becoming the target themselves.",
+  "releseDate": {
+    "$date": "2021-11-24T00:00:00Z"
+  },
+  "status": "public",
+  "type": "Web Series",
+  "director": {
+    "$oid": "61adffac007be029500bfbd3"
+  },
+  "language": "English",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61adffdc007be029500bfbd9"
+      },
+      "actor": {
+        "$oid": "61adfde2934b3318e873a5d9"
+      },
+      "roleAs": "Hawkeye",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61adffdc007be029500bfbda"
+      },
+      "actor": {
+        "$oid": "61adfe00934b3318e873a5dc"
+      },
+      "roleAs": "Echo",
+      "leadActor": false
+    },
+    {
+      "_id": {
+        "$oid": "61adffdc007be029500bfbdb"
+      },
+      "actor": {
+        "$oid": "61adfe26934b3318e873a5df"
+      },
+      "roleAs": "Yelena Belova",
+      "leadActor": true
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638792601/rgerihcxro6uwlqz4yrz.mp4",
+    "public_id": "rgerihcxro6uwlqz4yrz"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638793179/tobjckyffrdaijlu9yna.jpg",
+    "public_id": "tobjckyffrdaijlu9yna"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T12:19:40.382Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T11:24:19.900Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61ae05c913e0ba16e8d3cd46"
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Superhero"
+  ],
+  "tags": [
+    "web series"
+  ],
+  "writers": [],
+  "reviews": [
+    {
+      "$oid": "61af32077aa0ea11c863dbff"
+    },
+    {
+      "$oid": "61af34487aa0ea11c863dd09"
+    },
+    {
+      "$oid": "61af44b450de180ed0acfc4f"
+    }
+  ],
+  "avgStars": 0,
+  "title": "The Gifted",
+  "storyLine": "A couple lives happily with their children. When they realise that their children possess mutant abilities, they are forced to run and join a community that will help them.",
+  "releseDate": {
+    "$date": "2019-02-26T00:00:00Z"
+  },
+  "status": "public",
+  "type": "Web Series",
+  "language": "English",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61ae05c913e0ba16e8d3cd47"
+      },
+      "actor": {
+        "$oid": "61ae0125608c9c29b4134f63"
+      },
+      "roleAs": "Polaris",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61ae05c913e0ba16e8d3cd48"
+      },
+      "actor": {
+        "$oid": "61ae0145608c9c29b4134f66"
+      },
+      "roleAs": "Lauren Strucker",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61ae05c913e0ba16e8d3cd49"
+      },
+      "actor": {
+        "$oid": "61ae0165608c9c29b4134f69"
+      },
+      "roleAs": "Blink",
+      "leadActor": true
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638793449/zs5romxa2hq0zmvnanor.mp4",
+    "public_id": "zs5romxa2hq0zmvnanor"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638794695/uk3mdvht6khwun8punkh.jpg",
+    "public_id": "uk3mdvht6khwun8punkh"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T12:44:57.230Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T11:25:40.643Z"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "61ae261c5176ac1b44e78cda"
+  },
+  "genres": [
+    "Drama",
+    "Fiction",
+    "Thriller"
+  ],
+  "tags": [
+    "thriller"
+  ],
+  "writers": [],
+  "reviews": [
+    {
+      "$oid": "61af31e77aa0ea11c863dbd7"
+    },
+    {
+      "$oid": "61af44a950de180ed0acfc2a"
+    }
+  ],
+  "avgStars": 0,
+  "title": "Snowpiercer",
+  "storyLine": "Set more than seven years after the world has become a frozen wasteland, this series centres on the remaining people, who inhabit a gigantic, perpetually-moving train that circles the globe.",
+  "releseDate": {
+    "$date": "2020-05-17T00:00:00Z"
+  },
+  "status": "public",
+  "type": "Web Series",
+  "language": "English",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61ae261c5176ac1b44e78cdb"
+      },
+      "actor": {
+        "$oid": "61ae23fc5176ac1b44e78cc1"
+      },
+      "roleAs": "Melanie Cavill",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61ae261c5176ac1b44e78cdc"
+      },
+      "actor": {
+        "$oid": "61ae24d35176ac1b44e78cc7"
+      },
+      "roleAs": "Andre Layton",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61ae261c5176ac1b44e78cdd"
+      },
+      "actor": {
+        "$oid": "61ae24f95176ac1b44e78cca"
+      },
+      "roleAs": "Bess Till",
+      "leadActor": true
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638802338/eujnr7xk8givtcgrlqf3.mp4",
+    "public_id": "eujnr7xk8givtcgrlqf3"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638802971/dxsxardnggvnrymdrege.jpg",
+    "public_id": "dxsxardnggvnrymdrege"
+  },
+  "director": {
+    "$oid": "61ae255e5176ac1b44e78cd1"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T15:02:52.301Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T11:25:29.975Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61ae2c1c0b94d40bd0a1708b"
+  },
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "tags": [
+    "hindi",
+    "web series"
+  ],
+  "writers": [
+    {
+      "$oid": "61ae286323696d09a4149612"
+    }
+  ],
+  "reviews": [
+    {
+      "$oid": "61af31787aa0ea11c863dbb5"
+    },
+    {
+      "$oid": "61af442e50de180ed0acfb75"
+    }
+  ],
+  "avgStars": 0,
+  "title": "Mismatched",
+  "storyLine": "After being set-up by their families, two teenagers strike up a tentative friendship at their summer programme.",
+  "releseDate": {
+    "$date": "2020-11-20T00:00:00Z"
+  },
+  "status": "public",
+  "type": "Web Series",
+  "language": "Hindi",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61ae2c1c0b94d40bd0a1708c"
+      },
+      "actor": {
+        "$oid": "61ae271f23696d09a41495f3"
+      },
+      "roleAs": "Rishi Shekhawat",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61ae2c1c0b94d40bd0a1708d"
+      },
+      "actor": {
+        "$oid": "61ae273f23696d09a41495f6"
+      },
+      "roleAs": "Dimple Ahuja",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61ae2c1c0b94d40bd0a1708e"
+      },
+      "actor": {
+        "$oid": "61ae276123696d09a41495f9"
+      },
+      "roleAs": "Harsh Agarwal",
+      "leadActor": false
+    },
+    {
+      "_id": {
+        "$oid": "61ae2c1c0b94d40bd0a1708f"
+      },
+      "actor": {
+        "$oid": "61ae278d23696d09a41495fc"
+      },
+      "roleAs": "Namrata Bidasaria",
+      "leadActor": false
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638804324/owytaoii4wnko3hhc08e.mp4",
+    "public_id": "owytaoii4wnko3hhc08e"
+  },
+  "director": {
+    "$oid": "61ae283423696d09a414960b"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638804509/mz85mb3g46cnbrptm05n.jpg",
+    "public_id": "mz85mb3g46cnbrptm05n"
+  },
+  "createdAt": {
+    "$date": "2021-12-06T15:28:30.430Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T11:23:26.377Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61aef1b58118ed2820293043"
+  },
+  "genres": [
+    "Sci-Fi"
+  ],
+  "tags": [
+    "sci-fi",
+    "action",
+    "hollywood"
+  ],
+  "writers": [],
+  "reviews": [
+    {
+      "$oid": "61af42be50de180ed0acfa61"
+    },
+    {
+      "$oid": "61af42de50de180ed0acfa7a"
+    },
+    {
+      "$oid": "61af431950de180ed0acfaa0"
+    },
+    {
+      "$oid": "61af433a50de180ed0acfab9"
+    },
+    {
+      "$oid": "61af4ec4c32f411c78bc0d59"
+    }
+  ],
+  "avgStars": 0,
+  "title": "Dune",
+  "storyLine": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his peopl",
+  "releseDate": {
+    "$date": "2021-10-22T00:00:00Z"
+  },
+  "status": "public",
+  "type": "Film",
+  "language": "English",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61aef1b58118ed2820293044"
+      },
+      "actor": {
+        "$oid": "61aeefc38118ed282029301c"
+      },
+      "roleAs": "Paul Atreides",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61aef1b58118ed2820293045"
+      },
+      "actor": {
+        "$oid": "61aeefeb8118ed282029301f"
+      },
+      "roleAs": "Chani",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61aef1b58118ed2820293046"
+      },
+      "actor": {
+        "$oid": "61aef0108118ed2820293022"
+      },
+      "roleAs": "Lady Jessica",
+      "leadActor": false
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638854855/kkex6dlrshqfubwblt3j.mp4",
+    "public_id": "kkex6dlrshqfubwblt3j"
+  },
+  "director": {
+    "$oid": "61aef03a8118ed2820293025"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638855094/cwm73oo3rkkkl2yav09o.jpg",
+    "public_id": "cwm73oo3rkkkl2yav09o"
+  },
+  "createdAt": {
+    "$date": "2021-12-07T05:31:35.434Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T12:08:36.038Z"
+  },
+  "__v": 8
+},{
+  "_id": {
+    "$oid": "61aef3c58118ed282029306c"
+  },
+  "genres": [
+    "Thriller",
+    "Drama"
+  ],
+  "tags": [
+    "love story",
+    "hindi"
+  ],
+  "writers": [
+    {
+      "$oid": "61aef37e8118ed2820293065"
+    }
+  ],
+  "reviews": [],
+  "avgStars": 0,
+  "title": "Tadap",
+  "storyLine": "Tadap (transl. Yearning) is a 2021 Indian Hindi-language romantic action drama film directed by Milan Luthria and produced by Sajid Nadiadwala under the Nadiadwala Grandson Entertainment banner, with Fox Star Studios serving as distributor and co-producer.",
+  "releseDate": {
+    "$date": "2021-12-03T00:00:00Z"
+  },
+  "status": "public",
+  "type": "Film",
+  "language": "Hindi",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61aef3c58118ed282029306d"
+      },
+      "actor": {
+        "$oid": "61aef2628118ed282029304e"
+      },
+      "roleAs": "Shiva",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61aef3c58118ed282029306e"
+      },
+      "actor": {
+        "$oid": "61aef2448118ed282029304b"
+      },
+      "roleAs": "Ramisa Nautiyal",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61aef3c58118ed282029306f"
+      },
+      "actor": {
+        "$oid": "61aef27a8118ed2820293051"
+      },
+      "roleAs": "Anchal",
+      "leadActor": false
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638855138/vfaarejunajnkt8bnjro.mp4",
+    "public_id": "vfaarejunajnkt8bnjro"
+  },
+  "director": {
+    "$oid": "61aef30d8118ed282029305e"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638855622/hekyhukvemo7puhuvs2m.jpg",
+    "public_id": "hekyhukvemo7puhuvs2m"
+  },
+  "createdAt": {
+    "$date": "2021-12-07T05:40:23.318Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T05:40:23.318Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61aef5268118ed2820293093"
+  },
+  "genres": [
+    "Horror"
+  ],
+  "tags": [
+    "horror"
+  ],
+  "writers": [],
+  "reviews": [
+    {
+      "$oid": "61af2f60dbbe6b1b0cd66d60"
+    },
+    {
+      "$oid": "61af35a57aa0ea11c863ddea"
+    }
+  ],
+  "avgStars": 0,
+  "title": "Resident Evil: Welcome to Raccoon City",
+  "storyLine": "Welcome to Raccoon City, once the booming home of pharmaceutical giant Umbrella Corp. The company's exodus left the city a wasteland, a dying town with great evil brewing below the surface. When that evil is unleashed, a group of survivors must work together to uncover the truth behind Umbrella and make it through the night.",
+  "releseDate": {
+    "$date": "2021-12-03T00:00:00Z"
+  },
+  "status": "public",
+  "type": "Film",
+  "language": "English",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61aef5268118ed2820293094"
+      },
+      "actor": {
+        "$oid": "61aef4358118ed2820293077"
+      },
+      "roleAs": "Claire Redfield",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61aef5268118ed2820293095"
+      },
+      "actor": {
+        "$oid": "61aef4578118ed282029307a"
+      },
+      "roleAs": "Leon S. Kennedy",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61aef5268118ed2820293096"
+      },
+      "actor": {
+        "$oid": "61aef4708118ed282029307d"
+      },
+      "roleAs": "Jill Valentine",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61aef5268118ed2820293097"
+      },
+      "actor": {
+        "$oid": "61aef4888118ed2820293080"
+      },
+      "roleAs": "Chris Redifield",
+      "leadActor": false
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638855651/tbpwsm1gcvc1bviavpkb.mp4",
+    "public_id": "tbpwsm1gcvc1bviavpkb"
+  },
+  "director": {
+    "$oid": "61aef41f8118ed2820293074"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638855975/vk9sfx1zj8j56stt5xyv.jpg",
+    "public_id": "vk9sfx1zj8j56stt5xyv"
+  },
+  "createdAt": {
+    "$date": "2021-12-07T05:46:16.221Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T10:21:25.854Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61aef8007b0fb309dc9c8106"
+  },
+  "genres": [
+    "Action",
+    "History",
+    "Drama"
+  ],
+  "tags": [
+    "history",
+    "action"
+  ],
+  "writers": [],
+  "reviews": [
+    {
+      "$oid": "61af2f40dbbe6b1b0cd66d49"
+    },
+    {
+      "$oid": "61af35657aa0ea11c863ddc8"
+    },
+    {
+      "$oid": "61af449b50de180ed0acfc04"
+    }
+  ],
+  "avgStars": 0,
+  "title": "Marakkar: Lion of the Arabian Sea",
+  "storyLine": "The story of the legendary Kunjali Marakkar IV and his epic warfare against the Portuguese.",
+  "releseDate": {
+    "$date": "2021-12-02T00:00:00Z"
+  },
+  "status": "public",
+  "type": "Film",
+  "language": "Malayalam",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61aef8007b0fb309dc9c8107"
+      },
+      "actor": {
+        "$oid": "61aef7267b0fb309dc9c80f1"
+      },
+      "roleAs": "Marakkar IV",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61aef8007b0fb309dc9c8108"
+      },
+      "actor": {
+        "$oid": "61aef7407b0fb309dc9c80f4"
+      },
+      "roleAs": "Chandroth Panicker",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61aef8007b0fb309dc9c8109"
+      },
+      "actor": {
+        "$oid": "61aef70b7b0fb309dc9c80ee"
+      },
+      "roleAs": "Aarcha",
+      "leadActor": true
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638856346/dxxp7g5c6hzam51cokk5.mp4",
+    "public_id": "dxxp7g5c6hzam51cokk5"
+  },
+  "director": {
+    "$oid": "61aef7da7b0fb309dc9c80ff"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638856705/d8szrkuhtbv3xosn32lp.jpg",
+    "public_id": "d8szrkuhtbv3xosn32lp"
+  },
+  "createdAt": {
+    "$date": "2021-12-07T05:58:26.357Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T11:25:15.217Z"
+  },
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "61aef93c7b0fb309dc9c812e"
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "hindi",
+    "comedy"
+  ],
+  "writers": [
+    {
+      "$oid": "61aef8c97b0fb309dc9c8121"
+    }
+  ],
+  "reviews": [
+    {
+      "$oid": "61af2f2fdbbe6b1b0cd66d31"
+    },
+    {
+      "$oid": "61af35247aa0ea11c863dd9d"
+    }
+  ],
+  "avgStars": 0,
+  "title": "Bunty Aur Babli 2",
+  "storyLine": "Bunty and Babli are a pair of retired con-artists. After a spate of robberies with their trademark sigil start appearing across India the two are forced out of retirement to find out who has been copying them.",
+  "releseDate": {
+    "$date": "2021-11-19T00:00:00Z"
+  },
+  "status": "public",
+  "type": "Film",
+  "language": "Hindi",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61aef93c7b0fb309dc9c812f"
+      },
+      "actor": {
+        "$oid": "61aef87c7b0fb309dc9c811b"
+      },
+      "roleAs": "Sonia Rawat",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61aef93c7b0fb309dc9c8130"
+      },
+      "actor": {
+        "$oid": "61aef8617b0fb309dc9c8118"
+      },
+      "roleAs": "Kunal Singh Verma",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61aef93c7b0fb309dc9c8131"
+      },
+      "actor": {
+        "$oid": "61aef8937b0fb309dc9c811e"
+      },
+      "roleAs": "Bubli",
+      "leadActor": false
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638856746/n0k40ktjxna6frqqxe6m.mp4",
+    "public_id": "n0k40ktjxna6frqqxe6m"
+  },
+  "director": {
+    "$oid": "61aef8c97b0fb309dc9c8121"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638857021/kz4asnwscibyljirjn8t.jpg",
+    "public_id": "kz4asnwscibyljirjn8t"
+  },
+  "createdAt": {
+    "$date": "2021-12-07T06:03:41.875Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T10:19:16.709Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61aefb2b7b0fb309dc9c8151"
+  },
+  "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "tags": [
+    "hollywood",
+    "crime"
+  ],
+  "writers": [
+    {
+      "$oid": "61aefabd7b0fb309dc9c8145"
+    },
+    {
+      "$oid": "61aefadc7b0fb309dc9c8148"
+    }
+  ],
+  "reviews": [
+    {
+      "$oid": "61af2f1bdbbe6b1b0cd66d18"
+    },
+    {
+      "$oid": "61af35097aa0ea11c863dd79"
+    },
+    {
+      "$oid": "61af448d50de180ed0acfbd1"
+    },
+    {
+      "$oid": "61af7465c32f411c78bc0e83"
+    }
+  ],
+  "avgStars": 0,
+  "title": "House of Gucci",
+  "storyLine": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel the family legacy and triggers a reckless spiral of betrayal, decadence, revenge -- and ultimately murder.",
+  "releseDate": {
+    "$date": "2021-11-26T00:00:00Z"
+  },
+  "status": "public",
+  "type": "Film",
+  "language": "English",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61b1ad833b9b141b706f1656"
+      },
+      "actor": {
+        "$oid": "61aefa157b0fb309dc9c8136"
+      },
+      "roleAs": "Patrizia Reggiani",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61b1ad833b9b141b706f1657"
+      },
+      "actor": {
+        "$oid": "61aefa3b7b0fb309dc9c813b"
+      },
+      "roleAs": "Maurizio Gucci",
+      "leadActor": true
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638857171/aqzubi5nllqfukpfxmr2.mp4",
+    "public_id": "aqzubi5nllqfukpfxmr2"
+  },
+  "director": {
+    "$oid": "61aefa847b0fb309dc9c8140"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638857516/f21wmdtazkdktn5fblpa.jpg",
+    "public_id": "f21wmdtazkdktn5fblpa"
+  },
+  "createdAt": {
+    "$date": "2021-12-07T06:11:56.908Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-09T07:17:23.059Z"
+  },
+  "__v": 9
+},{
+  "_id": {
+    "$oid": "61af16f2dbbe6b1b0cd66cb7"
+  },
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "hollywood",
+    "action",
+    "adventure"
+  ],
+  "writers": [
+    {
+      "$oid": "61af15f4dbbe6b1b0cd66c9e"
+    },
+    {
+      "$oid": "61af1618dbbe6b1b0cd66ca3"
+    }
+  ],
+  "reviews": [
+    {
+      "$oid": "61af2f00dbbe6b1b0cd66cff"
+    },
+    {
+      "$oid": "61af345b7aa0ea11c863dd2b"
+    },
+    {
+      "$oid": "61af449350de180ed0acfbec"
+    }
+  ],
+  "avgStars": 0,
+  "title": "Venom: Let There Be Carnage",
+  "storyLine": "Eddie Brock is still struggling to coexist with the shape-shifting extraterrestrial Venom. When deranged serial killer Cletus Kasady also becomes host to an alien symbiote, Brock and Venom must put aside their differences to stop his reign of terror.",
+  "releseDate": {
+    "$date": "2021-10-14T00:00:00Z"
+  },
+  "status": "public",
+  "type": "Film",
+  "language": "English",
+  "cast": [
+    {
+      "_id": {
+        "$oid": "61af16f2dbbe6b1b0cd66cb8"
+      },
+      "actor": {
+        "$oid": "61af1682dbbe6b1b0cd66ca8"
+      },
+      "roleAs": "Venom",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61af16f2dbbe6b1b0cd66cb9"
+      },
+      "actor": {
+        "$oid": "61af16afdbbe6b1b0cd66cad"
+      },
+      "roleAs": "Cletus Kasady",
+      "leadActor": true
+    },
+    {
+      "_id": {
+        "$oid": "61af16f2dbbe6b1b0cd66cba"
+      },
+      "actor": {
+        "$oid": "61af16dddbbe6b1b0cd66cb2"
+      },
+      "roleAs": "Anne Weying",
+      "leadActor": false
+    }
+  ],
+  "trailer": {
+    "url": "http://res.cloudinary.com/dqeiokkem/video/upload/v1638864263/zkognoe6moorxvzlrmea.mp4",
+    "public_id": "zkognoe6moorxvzlrmea"
+  },
+  "director": {
+    "$oid": "61af15c9dbbe6b1b0cd66c99"
+  },
+  "poster": {
+    "url": "http://res.cloudinary.com/dqeiokkem/image/upload/v1638864627/mkfgw0epxcl1tkqwwzya.jpg",
+    "public_id": "mkfgw0epxcl1tkqwwzya"
+  },
+  "createdAt": {
+    "$date": "2021-12-07T08:10:28.220Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-07T11:25:07.636Z"
+  },
+  "__v": 3
+}]

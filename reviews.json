@@ -1,0 +1,703 @@
+[{
+  "_id": {
+    "$oid": "61ae36295024d7073c9600cb"
+  },
+  "owner": {
+    "$oid": "61798925a54df21a7c476f82"
+  },
+  "parentMovie": {
+    "$oid": "61a23de4b747f611947ba80d"
+  },
+  "content": "Very good",
+  "rating": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ae3c95f0cae90650d298d8"
+  },
+  "owner": {
+    "$oid": "617f8ca34dae260b9c80acb6"
+  },
+  "parentMovie": {
+    "$oid": "61a23de4b747f611947ba80d"
+  },
+  "content": "I like the movie very mush",
+  "rating": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ae3e7fb462ca2560096933"
+  },
+  "owner": {
+    "$oid": "61ae3cb9f0cae90650d298eb"
+  },
+  "parentMovie": {
+    "$oid": "61a23de4b747f611947ba80d"
+  },
+  "content": "I love this movie",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ae4a1536d2fa214493dc81"
+  },
+  "owner": {
+    "$oid": "61ae49ac36d2fa214493dc58"
+  },
+  "parentMovie": {
+    "$oid": "61a23de4b747f611947ba80d"
+  },
+  "content": "ok, one time watch",
+  "rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61aeecb98118ed2820292fb1"
+  },
+  "owner": {
+    "$oid": "61aeec928118ed2820292f9d"
+  },
+  "parentMovie": {
+    "$oid": "61a23de4b747f611947ba80d"
+  },
+  "content": "Good movie after long break.",
+  "rating": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61aeecde8118ed2820292fce"
+  },
+  "owner": {
+    "$oid": "61aeec928118ed2820292f9d"
+  },
+  "parentMovie": {
+    "$oid": "61a24c12eda4340b782de28f"
+  },
+  "content": "One of the best in the world.",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61aeee2a8118ed2820292fe8"
+  },
+  "owner": {
+    "$oid": "61798925a54df21a7c476f82"
+  },
+  "parentMovie": {
+    "$oid": "61a24c12eda4340b782de28f"
+  },
+  "content": "Like the movie",
+  "rating": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af2f00dbbe6b1b0cd66cff"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61af16f2dbbe6b1b0cd66cb7"
+  },
+  "content": "Not as I expect",
+  "rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af2f1bdbbe6b1b0cd66d18"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61aefb2b7b0fb309dc9c8151"
+  },
+  "content": "Nice Movie I like it",
+  "rating": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af2f2fdbbe6b1b0cd66d31"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61aef93c7b0fb309dc9c812e"
+  },
+  "content": "waste of time I don't like at all",
+  "rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af2f40dbbe6b1b0cd66d49"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61aef8007b0fb309dc9c8106"
+  },
+  "content": "Nice to know about history again",
+  "rating": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af2f60dbbe6b1b0cd66d60"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61aef5268118ed2820293093"
+  },
+  "content": "Like always thrill and horror",
+  "rating": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af2f90dbbe6b1b0cd66d78"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61adf923934b3318e873a590"
+  },
+  "content": "True story. Nice actors",
+  "rating": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af2faadbbe6b1b0cd66d91"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61adf6d4934b3318e873a55f"
+  },
+  "content": "I love the story and the concept very much.",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af3036ebea371d1c21344b"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61adf175934b3318e873a531"
+  },
+  "content": "Goosebumps. Awesome movie.",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af305eebea371d1c213469"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61adef07934b3318e873a50a"
+  },
+  "content": "With an epic filmatic musical score throughout, this reimagined Lost in Space series is every bit the successor to both the previous movie and TV series. Every episode having me on the edge of my seat (although you have to wonder how much trauma can one family take every day), it is a beautiful mix of adventure, action and mystery with each episode offering something new and raising more questions while answering others.",
+  "rating": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af309debea371d1c21348a"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61adb7fb6e354a16804009a9"
+  },
+  "content": "The best original show i’ve seen in a really long time...watching it.",
+  "rating": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af31787aa0ea11c863dbb5"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61ae2c1c0b94d40bd0a1708b"
+  },
+  "content": "Mismatched is a Fun, Cute, Sweet and Entertaining series.",
+  "rating": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af31e77aa0ea11c863dbd7"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61ae261c5176ac1b44e78cda"
+  },
+  "content": "This film is absolutley great and beautifully blends and interesting plot with mature themes",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af32077aa0ea11c863dbff"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61ae05c913e0ba16e8d3cd46"
+  },
+  "content": "I love this movie. Great movie to watch. I loved the chemistry between Chris Evans and Mckenna Grace.",
+  "rating": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af322c7aa0ea11c863dc20"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61adffdc007be029500bfbd8"
+  },
+  "content": "After having watched, most of the first two episodes, I can say, I'm impressed and optimistic about its future, and this is coming from someone who's increasingly found Marvel and DC productions.",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af325d7aa0ea11c863dc46"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61adfd11934b3318e873a5d1"
+  },
+  "content": "Suspense is good. Series will engage you till end.",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af32ac7aa0ea11c863dc6c"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61a23de4b747f611947ba80d"
+  },
+  "content": "Not a completely new story but I like the chemistry.",
+  "rating": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af33027aa0ea11c863dc92"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61a24c12eda4340b782de28f"
+  },
+  "content": "Not a single word against, beautiful movie.",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af33407aa0ea11c863dca5"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61acd61f3cf2ef13fc4e5b19"
+  },
+  "content": "Nothing special old Rohit Shetty stuff.",
+  "rating": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af33737aa0ea11c863dcca"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61adafc06e354a16804008e8"
+  },
+  "content": "After long time I like the salman khan.",
+  "rating": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af34487aa0ea11c863dd09"
+  },
+  "owner": {
+    "$oid": "617f8ca34dae260b9c80acb6"
+  },
+  "parentMovie": {
+    "$oid": "61ae05c913e0ba16e8d3cd46"
+  },
+  "content": "Gifted is the gift from it's makers. Like the movie.",
+  "rating": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af345b7aa0ea11c863dd2b"
+  },
+  "owner": {
+    "$oid": "617f8ca34dae260b9c80acb6"
+  },
+  "parentMovie": {
+    "$oid": "61af16f2dbbe6b1b0cd66cb7"
+  },
+  "content": "",
+  "rating": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af35097aa0ea11c863dd79"
+  },
+  "owner": {
+    "$oid": "617f8ca34dae260b9c80acb6"
+  },
+  "parentMovie": {
+    "$oid": "61aefb2b7b0fb309dc9c8151"
+  },
+  "content": "Awesome show.",
+  "rating": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af35247aa0ea11c863dd9d"
+  },
+  "owner": {
+    "$oid": "617f8ca34dae260b9c80acb6"
+  },
+  "parentMovie": {
+    "$oid": "61aef93c7b0fb309dc9c812e"
+  },
+  "content": "Not like the part one.",
+  "rating": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af35657aa0ea11c863ddc8"
+  },
+  "owner": {
+    "$oid": "617f8ca34dae260b9c80acb6"
+  },
+  "parentMovie": {
+    "$oid": "61aef8007b0fb309dc9c8106"
+  },
+  "content": "Marakkar lion of arabian sea -is a fabulously  wrapped empty giftbox underpining the statement ' content is the king '.",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af35a57aa0ea11c863ddea"
+  },
+  "owner": {
+    "$oid": "617f8ca34dae260b9c80acb6"
+  },
+  "parentMovie": {
+    "$oid": "61aef5268118ed2820293093"
+  },
+  "content": "First hour was pretty funny. Nice take on chief irons. I liked the interactions of stars alpha.",
+  "rating": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af36747aa0ea11c863de2f"
+  },
+  "owner": {
+    "$oid": "617f8ca34dae260b9c80acb6"
+  },
+  "parentMovie": {
+    "$oid": "61acd61f3cf2ef13fc4e5b19"
+  },
+  "content": "Just watched because of Akshay but disappointed.",
+  "rating": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af36d17aa0ea11c863de55"
+  },
+  "owner": {
+    "$oid": "617f8ca34dae260b9c80acb6"
+  },
+  "parentMovie": {
+    "$oid": "61a24c12eda4340b782de28f"
+  },
+  "content": "One of the exceptional, outstanding movies of Hot Chocolate, Hot Shot, Actor Suriya (Younger Killer Looks).",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af370e7aa0ea11c863de6c"
+  },
+  "owner": {
+    "$oid": "617f8ca34dae260b9c80acb6"
+  },
+  "parentMovie": {
+    "$oid": "61adafc06e354a16804008e8"
+  },
+  "content": "Unlike smj2 , Antim never disappoints a bit in this 142 minute crime -action-drama.",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af37ed13a16f6b85d07c75"
+  },
+  "owner": {
+    "$oid": "617f8ca34dae260b9c80acb6"
+  },
+  "parentMovie": {
+    "$oid": "61adfd11934b3318e873a5d1"
+  },
+  "content": "I like the suspense of the story",
+  "rating": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af39307aa0ea11c863def9"
+  },
+  "owner": {
+    "$oid": "617f8ca34dae260b9c80acb6"
+  },
+  "parentMovie": {
+    "$oid": "61adf923934b3318e873a590"
+  },
+  "content": "Makers understands the pain of engineering student.",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af39887aa0ea11c863df4f"
+  },
+  "owner": {
+    "$oid": "617f8ca34dae260b9c80acb6"
+  },
+  "parentMovie": {
+    "$oid": "61adf6d4934b3318e873a55f"
+  },
+  "content": "A good serial -- high lighting the love and affection in a close knit family.",
+  "rating": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af42be50de180ed0acfa61"
+  },
+  "owner": {
+    "$oid": "61af2edbdbbe6b1b0cd66cec"
+  },
+  "parentMovie": {
+    "$oid": "61aef1b58118ed2820293043"
+  },
+  "content": "Hands down the best thing going for Dune is the stunning visuals from beginning to end. Director Denis Villeneuve compiled a beautiful collection of scenes that are truly a sight to see.",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af42de50de180ed0acfa7a"
+  },
+  "owner": {
+    "$oid": "617f8ca34dae260b9c80acb6"
+  },
+  "parentMovie": {
+    "$oid": "61aef1b58118ed2820293043"
+  },
+  "content": "It’s been a couple of hours since seeing this magnificent movie and in short, Dune is why we go to theatres and more so, is our reward for patiently waiting in the wings with masks on and nothing else left to watch on demand.",
+  "rating": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af431950de180ed0acfaa0"
+  },
+  "owner": {
+    "$oid": "61798925a54df21a7c476f82"
+  },
+  "parentMovie": {
+    "$oid": "61aef1b58118ed2820293043"
+  },
+  "content": "David Lynch famously brought his \"Dune\" vision to the screen in 1984. The film score for Dune was composed by the Rock group TOTO their first and only film score . Its sublime.",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af433a50de180ed0acfab9"
+  },
+  "owner": {
+    "$oid": "61ae49ac36d2fa214493dc58"
+  },
+  "parentMovie": {
+    "$oid": "61aef1b58118ed2820293043"
+  },
+  "content": "Usually watching movies based on books I want to cry, because the source material has been butchered by an uncaring money-hungry industry.",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af43d550de180ed0acfb2e"
+  },
+  "owner": {
+    "$oid": "61af43ad50de180ed0acfb0f"
+  },
+  "parentMovie": {
+    "$oid": "61adf923934b3318e873a590"
+  },
+  "content": "Well, I never expected this type of a show which showcases the lives and struggles of an IIT aspirant in the small city of Kota to premiere on YouTube.",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af440550de180ed0acfb43"
+  },
+  "owner": {
+    "$oid": "61af437a50de180ed0acfaf9"
+  },
+  "parentMovie": {
+    "$oid": "61adf923934b3318e873a590"
+  },
+  "content": "Kota Factory S2 is a season full of ups and downs. The plot is simple, and the b/w theme delivers the scenes perfectly. S1 was more hyped by people for its YouTube streaming.",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af442e50de180ed0acfb75"
+  },
+  "owner": {
+    "$oid": "61af437a50de180ed0acfaf9"
+  },
+  "parentMovie": {
+    "$oid": "61ae2c1c0b94d40bd0a1708b"
+  },
+  "content": "Honestly, I'm definitely happy with the show and the fact that it stuck to reality was just so relieving.",
+  "rating": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af446350de180ed0acfb9d"
+  },
+  "owner": {
+    "$oid": "61af437a50de180ed0acfaf9"
+  },
+  "parentMovie": {
+    "$oid": "61adffdc007be029500bfbd8"
+  },
+  "content": "Honestly, I'm definitely happy with the show and the fact that it stuck to reality was just so relieving.",
+  "rating": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af448450de180ed0acfbb7"
+  },
+  "owner": {
+    "$oid": "61af437a50de180ed0acfaf9"
+  },
+  "parentMovie": {
+    "$oid": "61adfd11934b3318e873a5d1"
+  },
+  "content": "Honestly, I'm definitely happy with the show and the fact that it stuck to reality was just so relieving.",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af448d50de180ed0acfbd1"
+  },
+  "owner": {
+    "$oid": "61af437a50de180ed0acfaf9"
+  },
+  "parentMovie": {
+    "$oid": "61aefb2b7b0fb309dc9c8151"
+  },
+  "content": "Honestly, I'm definitely happy with the show and the fact that it stuck to reality was just so relieving.",
+  "rating": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af449350de180ed0acfbec"
+  },
+  "owner": {
+    "$oid": "61af437a50de180ed0acfaf9"
+  },
+  "parentMovie": {
+    "$oid": "61af16f2dbbe6b1b0cd66cb7"
+  },
+  "content": "Honestly, I'm definitely happy with the show and the fact that it stuck to reality was just so relieving.",
+  "rating": 7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af449b50de180ed0acfc04"
+  },
+  "owner": {
+    "$oid": "61af437a50de180ed0acfaf9"
+  },
+  "parentMovie": {
+    "$oid": "61aef8007b0fb309dc9c8106"
+  },
+  "content": "Honestly, I'm definitely happy with the show and the fact that it stuck to reality was just so relieving.",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af44a950de180ed0acfc2a"
+  },
+  "owner": {
+    "$oid": "61af437a50de180ed0acfaf9"
+  },
+  "parentMovie": {
+    "$oid": "61ae261c5176ac1b44e78cda"
+  },
+  "content": "Honestly, I'm definitely happy with the show and the fact that it stuck to reality was just so relieving.",
+  "rating": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af44b450de180ed0acfc4f"
+  },
+  "owner": {
+    "$oid": "61af437a50de180ed0acfaf9"
+  },
+  "parentMovie": {
+    "$oid": "61ae05c913e0ba16e8d3cd46"
+  },
+  "content": "Honestly, I'm definitely happy with the show and the fact that it stuck to reality was just so relieving.",
+  "rating": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af4ec4c32f411c78bc0d59"
+  },
+  "owner": {
+    "$oid": "61af437a50de180ed0acfaf9"
+  },
+  "parentMovie": {
+    "$oid": "61aef1b58118ed2820293043"
+  },
+  "content": "This movie has some of the most amazing set pieces I've seen in AAA Sci-Fi films! Definitely a must watch in premium theater formats such as Dolby Cinema & Imax!",
+  "rating": 9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61af7465c32f411c78bc0e83"
+  },
+  "owner": {
+    "$oid": "61af7411c32f411c78bc0e3d"
+  },
+  "parentMovie": {
+    "$oid": "61aefb2b7b0fb309dc9c8151"
+  },
+  "content": "Nice movie",
+  "rating": 9,
+  "__v": 0
+}]
